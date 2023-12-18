@@ -1,7 +1,6 @@
 name: Deploy the WOO Page to GitHub Pages
 
-env: 
-  # Change these to your preferences any image url can also be a base encoded image
+env: # Change these to your preferences any image url can also be a base encoded image
   GITHUB_PAGES_BRANCH: gh-pages
 
   # options: "true" | "false"
@@ -18,7 +17,7 @@ env:
   ORGANISATION_NAME: "Gemeente Sloterburg"
   JUMBOTRON_IMAGE_URL: "https://cuatro.sim-cdn.nl/sloterburg/uploads/styles/large_5x2_2560x1024/media/kasteel.jpg?cb=RcxlJqfm"
   FOOTER_LOGO_URL: "true"
-  FOOTER_LOGO_HREF: "https://sloterburg.nl/",
+  FOOTER_LOGO_HREF: "https://sloterburg.nl/"
   FOOTER_CONTENT: "https://raw.githubusercontent.com/ConductionNL/${{github.event.repository.name}}/main/FooterContent.json"
   FOOTER_CONTENT_HEADER: "heading-2"
   # OIDN_NUMBER: " "
