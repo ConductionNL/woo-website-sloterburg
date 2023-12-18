@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Contact",
+    "items": [
+      {
+        "ariaLabel": "Contact",
+        "value": "Neem contact op",
+        "link": "https://www.sloterburg.nl/contact",
+        "icon": { "prefix": "fas", "icon": "earth-europe", "placement": "left" }
+      }
+    ]
+  },
+  {
+    "title": "Algemeen",
+    "items": [
+      {
+        "ariaLabel": "Website",
+        "value": "www.sloterburg.nl",
+        "link": "https://www.sloterburg.nl/",
+        "icon": { "prefix": "fas", "icon": "globe", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Privacy",
+        "value": "Privacy",
+        "link": "https://www.sloterburg.nl/cookie-en-privacybeleid",
+        "icon": { "prefix": "fas", "icon": "circle-exclamation", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/docs/Toegankelijkheid.md",
+        "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Over deze website",
+        "value": "Over deze website",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/docs/Over%20deze%20website.md",
+        "icon": { "prefix": "fas", "icon": "circle-info", "placement": "left" }
+      }
+    ]
+  }
+]
