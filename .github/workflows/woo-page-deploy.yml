@@ -1,6 +1,7 @@
 name: Deploy the WOO Page to GitHub Pages
 
-env: # Change these to your preferences any image url can also be a base encoded image
+env: 
+  # Change these to your preferences any image url can also be a base encoded image
   GITHUB_PAGES_BRANCH: gh-pages
 
   # options: "true" | "false"
