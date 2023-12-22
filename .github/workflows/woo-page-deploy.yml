@@ -11,7 +11,7 @@ env: # Change these to your preferences any image url can also be a base encoded
   NL_DESIGN_THEME_CLASSNAME: "sloterburg-theme"
   DEV_ENVIRONMENT: "true"
   SHOW_CATEGORY: "true"
-  SHOW_ORGANIZATION: "true"
+  SHOW_ORGANIZATION: "false"
   FAVICON_URL: "https://cuatro.sim-cdn.nl/sloterburg/uploads/styles/favicon/media/favicon357500.png?cb=U6Ix86ic"
   HEADER_LOGO_URL: "https://conduction.nl/wp-content/uploads/2021/07/cropped-conductionlogo-1.png"
   ORGANISATION_NAME: "Gemeente Sloterburg"
